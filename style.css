@@ -1,0 +1,15 @@
+.my-color{
+
+}
+#my-color-id{
+
+}
+
+.Flex-container-buttons{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column;
+    justify-content: space-evenly;
+    
+}
+
